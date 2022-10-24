@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=1.1.1
+VERSION=1.1.2
 
 mkdir -p $VERSION
 cd $VERSION
